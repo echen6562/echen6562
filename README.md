@@ -4,7 +4,7 @@
 <p align="left"> Hello, I'm Evan Chen
 </p>
 <li>
-  <ul>I'm currently a Junior studying Computer Science at NYU</ul>
+I'm currently a Junior studying Computer Science at NYU
 </li>
 
 <h3 align="left">Languages and Tools:</h3>
