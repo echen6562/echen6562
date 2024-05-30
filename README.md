@@ -1,6 +1,5 @@
 <img src="https://github.com/echen6562/echen6562/blob/main/header.png" alt="Banner that says Evan Chen">
-
-<h2 align="left">Hey!👋</h2>
+# 💫 About Me:
 <p align="left"> Hello, I'm Evan Chen </p>
 <li>I'm currently a Junior studying Computer Science at NYU</li>
 <li>Interested in full-stack development, primarily front-end, and game design</li>
@@ -14,9 +13,6 @@
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-# 💫 About Me:
-
 
 
 # 📊 GitHub Stats:
