@@ -5,7 +5,7 @@
 <li>I'm currently a Junior studying Computer Science at NYU</li>
 <li>Interested in full-stack development, primarily front-end, and game design</li>
 
-<h2 align="left">💻Currently I am Learning <h2>
+<h2 align="left">💻Currently I am Learning </h2>
 <p align"left"> New York University <p>
 <li>GAMES-UT 180 Introduction to Programming for Games</li>
 
