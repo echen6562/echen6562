@@ -1,6 +1,6 @@
 <img src="https://github.com/echen6562/echen6562/blob/main/header.png" alt="Banner that says Evan Chen">
+
 <h2 align="left">Hey!👋</h2>
-<hr>
 <p align="left"> Hello, I'm Evan Chen </p>
 <li>I'm currently a Junior studying Computer Science at NYU</li>
 <li>Interested in full-stack development, primarily front-end, and game design</li>
