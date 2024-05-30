@@ -1,8 +1,10 @@
 <img src="https://github.com/echen6562/echen6562/blob/main/header.png" alt="Banner that says Evan Chen">
+
 # 💫 About Me:
 <p align="left"> Hello, I'm Evan Chen </p>
 <li>I'm currently a Junior studying Computer Science at NYU</li>
 <li>Interested in full-stack development, primarily front-end, and game design</li>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/echen6562) 
 
