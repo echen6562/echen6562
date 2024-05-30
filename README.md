@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Evan Chen</h1>
+<h1 align="center">Hey 👋! I'm Evan Chen</h1>
 <img src="https://github.com/echen6562/echen6562/blob/main/header.png" alt="Banner that says Evan Chen">
 
 <p align="left">
