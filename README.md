@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Evan Chen</h1>
-<img src="https://github.com/echen6562/header.png" alt="Banner that says Evan Chen">
+<img src="https://github.com/echen6562/echen6562/blob/main/header.png" alt="Banner that says Evan Chen">
 
 <h3 align="center">A Software Engineer from New York City.</h3>
 
