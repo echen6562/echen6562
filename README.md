@@ -1,4 +1,4 @@
-<h1 align="center"> Hey there!👋
+<h1 align="center"> 👋Hey there!</h1>
 <img src="https://github.com/echen6562/echen6562/blob/main/header.png" alt="Banner that says Evan Chen">
 
 # 💫 About Me:
