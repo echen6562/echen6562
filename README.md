@@ -6,7 +6,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/echen6562) 
 
-<h2 align="left">💻Currently I am Learning </h2>
+# 📖 Currently I am Learning:
 <p align"left"> New York University </p>
 <li>GAMES-UT 180 Introduction to Programming for Games</li>
 
@@ -22,6 +22,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=echen6562&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
