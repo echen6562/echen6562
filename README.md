@@ -11,7 +11,7 @@
 
 # 📖 Currently I am Learning:
 <p align"left"> New York University </p>
-<li>GAMES-UT 180 Introduction to Programming for Games</li>
+<li>GAMES-UT 120 Introduction to Game Development</li>
 
 
 # 💻 Tech Stack:
