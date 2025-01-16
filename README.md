@@ -10,6 +10,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/echen6562) 
 
 # 📖 Currently I am Learning:
+<p align"left"> In my free time </p>
+<li>React</li>
+<li>TailwindCSS</li>
 <p align"left"> New York University </p>
 <li>CSCI-UA 467 Applied Internet Technology</li>
 <li>CSCI-UA 479 Data Management and Analysis</li>
