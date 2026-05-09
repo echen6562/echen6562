@@ -23,7 +23,7 @@
 <li>On a leave of absence!</li>
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,react,nextjs,postgres,html,css,bootstrap,tailwind)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=echen6562&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
