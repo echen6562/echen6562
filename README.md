@@ -3,10 +3,10 @@
 
 # 💫 About Me:
 <p align="left"> Hello, I'm Evan Chen </p>
-<li>I'm currently a Senior studying Computer Science at NYU</li>
-<li>Interested in full-stack development leaning towards front-end development.</li>
-<li>Previously intered as a Software Engineering Intern at Union Pacific in Omaha, Nebraska.</li>
-<li>Currently pursuing an Agile Delivery Co-Op (Scrum Master) at 84.51 in Cincinnati, Ohio.</li>
+<li>I'm currently a Senior studying Computer Science at NYU graduating in December 2026</li>
+<li>Interested in AI Engineering, UI/UX Engineering, and full-stack development.</li>
+<li>Was previously a SWE Intern at Union Pacific Railroad, and Agile Delivery Co-op at 84.51˚.</li>
+<li>Will be interning as a SWE at AmEx for Summer 2026</li>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/echen6562) 
@@ -15,7 +15,9 @@
 <p align"left"> In my free time </p>
 <li>How to jump serve in Volleyball</li>
 <li>React</li>
-<li>Project Management Skills</li>
+<li>Python</li>
+<li>AWS</li>
+<li>Product Management Skills</li>
 </br>
 <p align"left"> New York University </p>
 <li>On a leave of absence!</li>
